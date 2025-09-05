@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raposo.ponto.apiMVC", "raposo.ponto.apiMVC\raposo.ponto.apiMVC.csproj", "{5CE3AD45-753C-46C2-AF17-41D074AE22EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raposo.ponto.Shared", "raposo.ponto.Shared\raposo.ponto.Shared.csproj", "{478E06D3-5564-4239-BE0F-2571EA7CDE79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE3AD45-753C-46C2-AF17-41D074AE22EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE3AD45-753C-46C2-AF17-41D074AE22EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE3AD45-753C-46C2-AF17-41D074AE22EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE3AD45-753C-46C2-AF17-41D074AE22EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478E06D3-5564-4239-BE0F-2571EA7CDE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478E06D3-5564-4239-BE0F-2571EA7CDE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478E06D3-5564-4239-BE0F-2571EA7CDE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478E06D3-5564-4239-BE0F-2571EA7CDE79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFD5AC7-6787-4900-B68B-695B8CD456B3}
+	EndGlobalSection
+EndGlobal
