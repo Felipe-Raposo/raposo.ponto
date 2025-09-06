@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("raposo.ponto.apiMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6da909ae9122f5168b7a4a239587ef18d4b1a6e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6313d08ef5cf29d9c53e6aa4f7d83be5aa17d5b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("raposo.ponto.apiMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("raposo.ponto.apiMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
